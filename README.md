@@ -1,6 +1,6 @@
-# GPT-5 Multimodal Chat API
+# GPT-5 Multimodal Chat App
 
-A FastAPI backend for GPT-5 multimodal chat with image and text support. This API allows you to:
+A chat app built using GPT-5 model.
 
 - Chat with GPT-5 using text-only messages
 - Upload images and ask questions about them
