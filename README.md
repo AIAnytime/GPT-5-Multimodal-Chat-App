@@ -10,9 +10,13 @@ A chat app built using GPT-5 model.
 ## Features
 
 ✨ **Text Chat**: Simple text-based conversations with GPT-5
+
 🖼️ **Image Analysis**: Upload images and get AI-powered analysis
+
 🎯 **Preset Actions**: Quick actions like "Analyze", "Summarize", "Extract Text"
+
 💬 **Conversation History**: Maintain context across multiple messages
+
 🔄 **Multiple Input Methods**: Support for file uploads and base64 encoded images
 
 ## Quick Start
